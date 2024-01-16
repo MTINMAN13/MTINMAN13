@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - TODO:
 - 
 
-![Country] (https://imgs.search.brave.com/HexQtzwf24Ibhf39EXNoKqPAH26CAISn0LXlS4wG13U/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2NiL0Zs/YWdfb2ZfdGhlX0N6/ZWNoX1JlcHVibGlj/LnN2Zy82NDBweC1G/bGFnX29mX3RoZV9D/emVjaF9SZXB1Ymxp/Yy5zdmcucG5n)
-
-
+![Alt Text](https://imgs.search.brave.com/HexQtzwf24Ibhf39EXNoKqPAH26CAISn0LXlS4wG13U/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2NiL0Zs/YWdfb2ZfdGhlX0N6/ZWNoX1JlcHVibGlj/LnN2Zy82NDBweC1G/bGFnX29mX3RoZV9D/emVjaF9SZXB1Ymxp/Yy5zdmcucG5n)
