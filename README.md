@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C
-- DOING :
+️
+  
+## Current Focus 🌱
+- Learning C
+
+## Projects Status 🚀
+### Doing:
 - Philosophers
 
-- POLISHING :
+### Polishing:
 - Fractol
 - Push_Swap
-  
-- TODO:
+
+### Todo:
 - Exam Rank 02
 - Minishell
 - Exam Rank 03
@@ -38,9 +43,8 @@ Here are some ideas to get you started:
 - ft_transcendence
 - Exam Rank 06
 
-- DONE :
+### Done:
 - Libft 125☑️
 - Print 102☑️
 - Get Next Line 112☑️
 - Born2BeRoot - Virtual Machine 101) 125☑️
-  
