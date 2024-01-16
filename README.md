@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 > // Fractol
 > // Push_Swap
 >```
-
+<!--
 ## Projects Status 🚀
 
 | **Done**                                       | **Todo**           |
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 |                                                | Inception          |
 |                                                | ft_transcendence   |
 |                                                | Exam Rank 06       |
-
+-->
