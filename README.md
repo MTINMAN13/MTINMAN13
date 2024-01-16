@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,18 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Current Focus 🌱 - Learning C
 
-️
-  
-# Current Focus 🌱 - Learning C
+> ## Projects Status 🚀
+> ### Doing:
+> - Philosophers
 
-## Projects Status 🚀
-### Doing:
-- Philosophers
-
-### Polishing:
-- Fractol
-- Push_Swap
+> ### Polishing:
+> - Fractol
+> - Push_Swap
 
 ### Todo:
 - Exam Rank 02
