@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 ## Projects Status 🚀
 > ### Doing:
-> - Philosophers
+>
+> ```python
+> Philosophers
+> ```
 
-> ### Polishing:
-> - Fractol
-> - Push_Swap
-
-## Projects Status 🚀
-
+> ###### Polishing:
+>```c
+> // Fractol
+> // Push_Swap
+>```
 ## Projects Status 🚀
 
 | **Done**                                       | **Todo**           |
