@@ -1,4 +1,7 @@
-### Hi there 👋 | Current Focus 🌱 - Learning C
+
+### Hi there 👋
+
+Current Focus 🌱 - Learning C 
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +27,7 @@ Here are some ideas to get you started:
 > // Fractol
 > // Push_Swap
 >```
+
 ## Projects Status 🚀
 
 | **Done**                                       | **Todo**           |
