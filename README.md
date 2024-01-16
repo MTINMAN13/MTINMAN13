@@ -16,7 +16,31 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning C
-- TODO:
-- 
+- DOING :
+- Philosophers
 
-![Alt Text](https://imgs.search.brave.com/HexQtzwf24Ibhf39EXNoKqPAH26CAISn0LXlS4wG13U/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2NiL0Zs/YWdfb2ZfdGhlX0N6/ZWNoX1JlcHVibGlj/LnN2Zy82NDBweC1G/bGFnX29mX3RoZV9D/emVjaF9SZXB1Ymxp/Yy5zdmcucG5n)
+- POLISHING :
+- Fractol
+- Push_Swap
+  
+- TODO:
+- Exam Rank 02
+- Minishell
+- Exam Rank 03
+- CPP-00 -> CPP-04
+- Exam Rank 04
+- miniRT
+- NetPractice
+- Exam Rank 05
+- Webserv
+- CPP-05 -> CPP-09
+- Inception
+- ft_transcendence
+- Exam Rank 06
+
+- DONE :
+- Libft 125☑️
+- Print 102☑️
+- Get Next Line 112☑️
+- Born2BeRoot - Virtual Machine 101) 125☑️
+  
