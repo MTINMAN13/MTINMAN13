@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Current Focus 🌱 - Learning C
 
-> ## Projects Status 🚀
+## Projects Status 🚀
 > ### Doing:
 > - Philosophers
 
