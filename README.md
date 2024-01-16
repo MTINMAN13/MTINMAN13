@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 
 ## Projects Status 🚀
 
-| **Todo**           | **Done**                                       |
-| ------------------ | ---------------------------------------------- |
-| Exam Rank 02       | Libft 125☑️                                    |
-| Minishell          | Print 102☑️                                    |
-| Exam Rank 03       | Get Next Line 112☑️                            |
-| CPP-00 -> CPP-04   | Born2BeRoot - Virtual Machine 101) 125☑️       |
-| Exam Rank 04       |                                                |
-| miniRT             |                                                |
-| NetPractice        |                                                |
-| Exam Rank 05       |                                                |
-| Webserv            |                                                |
-| CPP-05 -> CPP-09   |                                                |
-| Inception          |                                                |
-| ft_transcendence   |                                                |
-| Exam Rank 06       |                                                |
+## Projects Status 🚀
+
+| **Done**                                       | **Todo**           |
+| ---------------------------------------------- | ------------------ |
+| Libft 125☑️                                    | Exam Rank 02       |
+| Print 102☑️                                    | Minishell          |
+| Get Next Line 112☑️                            | Exam Rank 03       |
+| Born2BeRoot - Virtual Machine 101) 125☑️       | CPP-00 -> CPP-04   |
+|                                                | Exam Rank 04       |
+|                                                | miniRT             |
+|                                                | NetPractice        |
+|                                                | Exam Rank 05       |
+|                                                | Webserv            |
+|                                                | CPP-05 -> CPP-09   |
+|                                                | Inception          |
+|                                                | ft_transcendence   |
+|                                                | Exam Rank 06       |
 
