@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 |                                                | ft_transcendence   |
 |                                                | Exam Rank 06       |
 -->
+
+<img title="a title" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
