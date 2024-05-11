@@ -1,8 +1,5 @@
 
 ### Hi there 👋
-
-STATUS REPORT:
-Current Focus 🌱 - Learning C, starting C++ 
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +20,7 @@ Here are some ideas to get you started:
 > ```
 > minishell
 > c++
-> 
+> STATUS REPORT: Current Focus 🌱 C, C++
 > ```
 
 <!--
