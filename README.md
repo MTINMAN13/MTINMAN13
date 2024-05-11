@@ -1,5 +1,13 @@
 
-### Hi there 👋
+# Hi there 👋(￣^￣ )ゞ
+Martin is a student at 42 Prague. He works as an associate engineer at SAP Concur.
+
+
+𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎
+
+
+###### _STATUS REPORT: Current Focus 🌱 C, C++_
+
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +23,14 @@ Here are some ideas to get you started:
 ///
 - ⚡ Fun fact: ... i am complete degenerate, with some crazy aspirations and secret past
 -->
-> ### Doing:
+ ### What Done:
+> ```
+> Libft 125☑️, Printf 102☑️, Get Next Line 112☑️, Born2BeRoot - Virtual Machine 101) 125☑️, Minitalk 125☑️,
 >
+> Submitting Fractol
+> Submitting Push_Swap
 > ```
-> minishell
-> c++
-> STATUS REPORT: Current Focus 🌱 C, C++
-> ```
+
 
 <!--
 ## Projects Status 🚀
@@ -29,9 +38,9 @@ Here are some ideas to get you started:
 | **Done**                                       | **Todo**           |
 | ---------------------------------------------- | ------------------ |
 | Libft 125☑️                                    | Exam Rank 02       |
-| Print 102☑️                                    | Minishell          |
-| Get Next Line 112☑️                            | Exam Rank 03       |
-| Born2BeRoot - Virtual Machine 101) 125☑️       | CPP-00 -> CPP-04   |
+|                                                 | Minishell          |
+|                                                 | Exam Rank 03       |
+|                                                 | CPP-00 -> CPP-04   |
 |                                                | Exam Rank 04       |
 |                                                | miniRT             |
 |                                                | NetPractice        |
