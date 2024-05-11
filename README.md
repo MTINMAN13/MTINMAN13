@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 > ```
 
 > ### To Be Handed-of:
-> Philosophers
-> Fractol
-> Exam Rank 02
+> > Philosophers
+> > Fractol
+> > Exam Rank 02
+> > Push_Swap
 
 > ###### Polishing:
 >```c
-> // Push_Swap
+> // 
 >```
 <!--
 ## Projects Status 🚀
