@@ -1,8 +1,10 @@
 
 # Hi there 👋(￣^￣ )ゞ
 
-<br>
+
+<img title="a title" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
   
+<br>
 Martin Man is a student at 42 Prague. <br>He works as an associate engineer at SAP Concur.
 
 
@@ -25,10 +27,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i am complete degenerate, with some crazy aspirations and secret past
 -->
 > ```
-> Libft 125☑️, Printf 102☑️, Get Next Line 112☑️, Born2BeRoot - Virtual Machine 101) 125☑️, Minitalk 125☑️,
+> Libft 125☑️, Printf 102☑️, Get Next Line 112☑️, Born2BeRoot - Virtual Machine 101) 125☑️, Minitalk 125☑️, Fractol 125☑️,
 >
-> Submitting Fractol
+> 
 > Submitting Push_Swap
+> Readying Minishell, Philosopher Problem
 > ```
 
 
@@ -52,6 +55,5 @@ Here are some ideas to get you started:
 |                                                | Exam Rank 06       |
 -->
 
-<img title="a title" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
 
 ###### © 𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎<br>
