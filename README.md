@@ -1,12 +1,13 @@
 
 # Hi there 👋(￣^￣ )ゞ
-Martin is a student at 42 Prague. He works as an associate engineer at SAP Concur.
+
+<br>
+  
+Martin Man is a student at 42 Prague. <br>He works as an associate engineer at SAP Concur.
 
 
-𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎
 
-
-###### _STATUS REPORT: Current Focus 🌱 C, C++_
+###### Martin is currently studying 🌱 C, C++_ 
 
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,12 +19,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... ...
 - 😄 Pronouns: ...
 ///
 - ⚡ Fun fact: ... i am complete degenerate, with some crazy aspirations and secret past
 -->
- ### What Done:
 > ```
 > Libft 125☑️, Printf 102☑️, Get Next Line 112☑️, Born2BeRoot - Virtual Machine 101) 125☑️, Minitalk 125☑️,
 >
@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 -->
 
 <img title="a title" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
+
+###### © 𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎<br>
