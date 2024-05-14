@@ -12,7 +12,7 @@ Martin Man is a student at 42 Prague. <br>He works as an associate engineer at S
 ###### Martin is currently studying 🌱 C, C++_ 
 
 <!--
-**MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Ys Yes
 
 Here are some ideas to get you started:
 
