@@ -5,7 +5,7 @@
 <img title="a title of an image" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
   
 <br>
-Martin Man is a student at 42 Prague. <br>He works as an associate engineer at SAP Concur.
+Martin Man is a student at 42 Prague. <br>He works as an associate engineer at technical support for SAP Concur.
 
 
 
