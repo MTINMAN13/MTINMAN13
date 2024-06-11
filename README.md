@@ -4,7 +4,7 @@
 
 <img title="a title of an image" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
   
-Martin Man is 26 years old. He is a student at 42 Prague and works as an associate engineer in technical support for SAP Concur.
+Martin Man is 26 years old. He is a student at 42 Prague and works as an associate in technical support for SAP Concur.
 
 
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 -->
 
 
-###### © 𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎<br>
+The journey at 42 is great; I can't wait to get deeper into active development. See my projects below:
