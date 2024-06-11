@@ -4,7 +4,7 @@
 
 <img title="a title of an image" alt="Alt text" src="https://i.imgur.com/hbSyt0j.png">
   
-Martin Man is 26 years old. He is a student at 42 Prague and works as an associate in technical support for SAP [Concur](https://www.concur.com/).
+Martin Man is 26 years old. He is a student at [42](https://www.42prague.com/) Prague and works as an associate in technical support for SAP [Concur](https://www.concur.com/).
 
 
 
