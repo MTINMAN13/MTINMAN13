@@ -8,7 +8,7 @@ Martin Man is 26 years old. He is a student at 42 Prague and works as an associa
 
 
 
-###### Martin is currently studying 🌱 C, C++_ 
+###### Martin is currently studying C and C++ at 42 Prague. 🌱
 
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Ys Yes
