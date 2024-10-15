@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 > Libft 125☑️, Printf 102☑️, Get Next Line 112☑️, Born2BeRoot - Virtual Machine 101) 125☑️, Minitalk 125☑️, Fractol 125☑️,
 >
 > 
-> Submitting Push_Swap
-> Readying Minishell, Philosopher Problem
+> Submitting the C++ projects.
 > ```
 
 
