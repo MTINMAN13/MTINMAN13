@@ -37,13 +37,7 @@ Here are some ideas to get you started:
 
 | **Done**                                       | **Todo**           |
 | ---------------------------------------------- | ------------------ |
-| Libft 125☑️                                    | Exam Rank 02       |
-|                                                 | Minishell          |
-|                                                 | Exam Rank 03       |
-|                                                 | CPP-00 -> CPP-04   |
 |                                                | Exam Rank 04       |
-|                                                | miniRT             |
-|                                                | NetPractice        |
 |                                                | Exam Rank 05       |
 |                                                | Webserv            |
 |                                                | CPP-05 -> CPP-09   |
